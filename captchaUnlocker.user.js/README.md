@@ -13,4 +13,10 @@
 
 ## 시작하기
 
+### 유저스크립트 익스텐션 설치
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ko)와 같은 유저스크립트 익스텐션을 설치합니다.
+
+### 유저스크립트 설치
+[유저스크립트 설치 링크](https://raw.githack.com/ShapeLayer/lecture-enrolling-tools/main/captchaUnlocker.user.js/captchaUnlocker.user.js)로 접속합니다.
+
+설치되는 유저스크립트는 본 저장소의 `captchaUnlocker.user.js`와 동일합니다.
