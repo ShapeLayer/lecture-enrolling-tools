@@ -3,6 +3,8 @@
 // @namespace    https://jonghyeon.me/
 // @version      0.1
 // @description  전남대학교 수강신청 매크로방지 문자 OCR 입력 유저스크립트
+// @downloadURL  https://raw.githack.com/ShapeLayer/lecture-enrolling-tools/main/captchaUnlocker.user.js/captchaUnlocker.user.js
+// @updateURL    https://raw.githack.com/ShapeLayer/lecture-enrolling-tools/main/captchaUnlocker.user.js/captchaUnlocker.user.js
 // @author       ShapeLayer
 // @include      https://hak.jnu.ac.kr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
